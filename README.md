@@ -13,9 +13,9 @@ Shooting game using Pygame based off Python crashcourse book
 * [Pygame](https://www.pygame.org/)
 
 
-#Cloning this repo
+# Cloning this repo
 * > $ git clone https://github.com/coded-guy/Space-Invasion.git
 * > $ cd Alien-Invasion
 
-#Running the game
+# Running the game
 > $ python alien_invasion.py
